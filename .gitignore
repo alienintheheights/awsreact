@@ -1,0 +1,7 @@
+.DS_Store
+.bundle
+pkg/*
+node_modules/*
+dist/*
+.env
+yarn-log.error
